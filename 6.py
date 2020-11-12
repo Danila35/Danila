@@ -5,3 +5,5 @@ while a < b:
 	a *= 1.1
 	d += 1
 print(d)
+
+
